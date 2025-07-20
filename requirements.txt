@@ -1,7 +1,7 @@
-The requirements to develop the project are:
+🛠️ Tech Stack Used in ShopSmart
 
-->Frontend: React.js, Vite, Context API 
--> Backend: Node.js, Express.js  
--> Database: MongoDB  
--> Styling: CSS/Tailwind (optional)  
-->Tools: Git, GitHub, VS Code 
+🌐 Frontend: React.js ⚛️, Vite ⚡, Context API 📦
+🔙 Backend: Node.js 🟩, Express.js 🚀
+🗄️ Database: MongoDB 🍃
+🎨 Styling: CSS3 🎨, Tailwind CSS 🌬️ (optional)
+🧰 Tools: Git 🔧, GitHub 🐙, VS Code 💻

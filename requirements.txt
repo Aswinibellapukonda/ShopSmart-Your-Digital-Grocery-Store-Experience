@@ -1,1 +1,7 @@
+The requirements to develop the project are:
 
+->Frontend: React.js, Vite, Context API 
+-> Backend: Node.js, Express.js  
+-> Database: MongoDB  
+-> Styling: CSS/Tailwind (optional)  
+->Tools: Git, GitHub, VS Code 
